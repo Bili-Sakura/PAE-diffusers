@@ -51,14 +51,6 @@ This project presents **PAE** (Prior-Aligned AutoEncoder), a tokenizer framework
 - 🏆 **State-of-the-Art**: Achieves gFID **1.03** on ImageNet 256×256, the best result among all compared methods.
 - 🔄 **Encoder-Agnostic**: Compatible with multiple VFM backbones including DINOv2, SigLIP2, DINOv3, and MAE.
 
-## 📖 Quick Start
-
-### Inference
-
-Simply test the effect of reconstruction:
-```bash
-quick_start.ipynb
-```
 
 ## 🏛️ Architecture
 
