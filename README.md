@@ -1,6 +1,6 @@
 <div align="center">
-<h1>🎯 PAE: Prior-Aligned Autoencoders for Latent Diffusion</h1>
-<h3>What Matters for Diffusion-Friendly Latent Manifold?</h3>
+<h1>🎯 PAE: What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</h1>
+
 
 [![Github](https://img.shields.io/badge/Github-PAE-blue)](https://github.com/ZhengrongYue/PAE)
 [![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/yuezhengrong/PAE-collections)
