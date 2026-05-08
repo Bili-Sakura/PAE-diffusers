@@ -1,5 +1,5 @@
 <div align="center">
-<h1>PAE: What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</h1>
+<h1>What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</h1>
 
 <div align="center">
 
