@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/ModelScope-Models-purple" alt="ModelScope">
 </a>
 <a href="https://github.com/ZhengrongYue/PAE">
-    <img src="https://img.shields.io/badge/GitHub-byliutao%2Fcdm-black?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-ZhengrongYue%2FPAE-black?logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://github.com/ZhengrongYue/PAE">
     <img src="https://img.shields.io/badge/Paper-2605.06376-b31b1b?logo=arxiv&logoColor=white" alt="arXiv Paper">
