@@ -1,10 +1,26 @@
 <div align="center">
 <h1>PAE: What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</h1>
 
+<div align="center">
 
-[![Github](https://img.shields.io/badge/Github-PAE-blue)](https://github.com/ZhengrongYue/PAE)
-[![Hugging Face Model](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/yuezhengrong/PAE-collections)
-[![ModelScope](https://img.shields.io/badge/ModelScope-Models-purple)](https://www.modelscope.cn/models/ZhengrongYue/PAE-Collections)
+<a href="https://zhengrongyue.github.io/pae.github.io/">
+    <img src="https://img.shields.io/badge/Project_Page-0055b3?logo=githubpages&logoColor=white" alt="Project Page">
+</a>
+<a href="https://huggingface.co/yuezhengrong/PAE-collections">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-SD3_Medium-ffc107" alt="Huggingface">
+</a>
+<a href="https://www.modelscope.cn/models/ZhengrongYue/PAE-Collections">
+    <img src="https://img.shields.io/badge/ModelScope-Models-purple" alt="ModelScope">
+</a>
+<a href="https://github.com/ZhengrongYue/PAE">
+    <img src="https://img.shields.io/badge/GitHub-byliutao%2Fcdm-black?logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/ZhengrongYue/PAE">
+    <img src="https://img.shields.io/badge/Paper-2605.06376-b31b1b?logo=arxiv&logoColor=white" alt="arXiv Paper">
+</a>
+</div>
+
+
 
 </div>
 
