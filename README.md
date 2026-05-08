@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Project_Page-0055b3?logo=githubpages&logoColor=white" alt="Project Page">
 </a>
 <a href="https://huggingface.co/yuezhengrong/PAE-collections">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-SD3_Medium-ffc107" alt="Huggingface">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Model-PAE" alt="Huggingface">
 </a>
 <a href="https://www.modelscope.cn/models/ZhengrongYue/PAE-Collections">
     <img src="https://img.shields.io/badge/ModelScope-Models-purple" alt="ModelScope">
