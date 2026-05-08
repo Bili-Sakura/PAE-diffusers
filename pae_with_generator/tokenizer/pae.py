@@ -1,11 +1,6 @@
 """
 PAE (Prior-Aligned Autoencoder) core module.
 
-Implements the latent compressor / decompressor + decoder with
-hyperspherical latent normalization and delta-encoder support.
-This module is inference-only; training-specific losses and
-regularization have been stripped.
-
 by Zhengrong Yue
 from SJTU
 """
