@@ -73,10 +73,5 @@ Our work builds upon the foundations laid by many excellent projects in the fiel
 
 ## ✨ Star History
 
-<a href="https://www.star-history.com/?repos=ZhengrongYue%2FPAE&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ZhengrongYue/PAE&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ZhengrongYue/PAE&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ZhengrongYue/PAE&type=date&legend=top-left" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=ZhengrongYue/PAE&type=Date)](https://star-history.com/#ZhengrongYue/PAE&Date)
+
