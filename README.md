@@ -1,6 +1,5 @@
 <div align="center">
 <h1>What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion</h1>
-
 <div align="center">
 
 <a href="https://zhengrongyue.github.io/pae.github.io/">
@@ -42,6 +41,7 @@ This project presents **PAE** (Prior-Aligned AutoEncoder), a tokenizer framework
 ## 🔥 Updates
 
 * **[2026.05.09]** 🚀 🚀 🚀 We release **PAE**. Code and pretrained models are now available!
+* **[2026.05.10]** 🛠️ **Scale-PAE** is currently in progress. We will release the full code upon completion.
 
 ## ✨ Highlights
 
