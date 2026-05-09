@@ -47,7 +47,7 @@ This project presents **PAE** (Prior-Aligned AutoEncoder), a tokenizer framework
 ## 🔥 Updates
 
 * **[2026.05.09]** 🚀 🚀 🚀 We release **PAE**. Code and pretrained models are now available!
-* **[2026.05.10]** 🛠️ **Scale-PAE** is currently in progress. We will release the full code upon completion.
+* **[2026.05.10]** 🛠️ **Scale-PAE** is currently in progress. Once completed, we will release the full dynamic resolution PAE training code.
 
 ## ✨ Highlights
 
