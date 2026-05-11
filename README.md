@@ -68,7 +68,19 @@ This project presents **PAE** (Prior-Aligned AutoEncoder), a tokenizer framework
 ## ❤️ Acknowledgement
 Our work builds upon the foundations laid by many excellent projects in the field. We would like to thank the authors of [LightningDiT](https://github.com/hustvl/LightningDiT), [RAE](https://github.com/bytetriper/RAE), [GAE](https://github.com/sii-research/GAE), [ADM](https://github.com/openai/guided-diffusion). We are grateful for their contributions to the community.
 
-
+## 📘 Citation
+Please consider citing our work as follows if it is helpful.
+```
+@misc{yue2026mattersdiffusionfriendlylatentmanifold,
+      title={What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion}, 
+      author={Zhengrong Yue and Taihang Hu and Mengting Chen and Haiyu Zhang and Zihao Pan and Tao Liu and Zikang Wang and Jinsong Lan and Xiaoyong Zhu and Bo Zheng and Yali Wang},
+      year={2026},
+      eprint={2605.07915},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.07915}, 
+}
+```
 
 ## ✨ Star History
 
