@@ -15,10 +15,9 @@
     <img src="https://img.shields.io/badge/GitHub-ZhengrongYue%2FPAE-black?logo=github&logoColor=white" alt="GitHub">
 </a>
 <a href="https://arxiv.org/pdf/2605.07915">
-    <img src="https://img.shields.io/badge/Paper-2605.07915?logo=arxiv&logoColor=white" alt="arXiv Paper">
+    <img src="https://img.shields.io/badge/Paper-2605.07915-b31b1b?logo=arxiv&logoColor=white" alt="arXiv Paper">
 </a>
 </div>
-
 
 
 </div>
