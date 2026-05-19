@@ -45,8 +45,21 @@ This project presents **PAE** (Prior-Aligned AutoEncoder), a tokenizer framework
 
 ## 🔥 Updates
 
+* **[2026.05.19]** 🔌 Native **Diffusers** integration: `PAEPipeline`, `LightningDiT2DModel`, `PAEAutoencoder`, and `PAEFlowMatchScheduler` under `src/diffusers`. See [README_DIFFUSERS.md](./README_DIFFUSERS.md).
 * **[2026.05.09]** 🚀 🚀 🚀 We release **PAE**. Code and pretrained models are now available!
 * **[2026.05.10]** 🛠️ **Scale-PAE** is currently in progress. Once completed, we will release the full dynamic resolution PAE training code.
+
+## Diffusers
+
+This repo is the Diffusers port of PAE + LightningDiT (structure aligned with [NiT-diffusers](https://github.com/Bili-Sakura/NiT-diffusers)):
+
+```bash
+pip install -e .
+PYTHONPATH=src python3 scripts/convert_pae_to_diffusers.py --dit-checkpoint /path/to/dit.pt --output ./pipeline
+PYTHONPATH=src python3 scripts/sample_pae.py --model ./pipeline --class-label 207
+```
+
+Full usage: [README_DIFFUSERS.md](./README_DIFFUSERS.md).
 
 ## ✨ Highlights
 
